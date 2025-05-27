@@ -10,9 +10,7 @@ def calcular_media():
         print('Você está REPROVADO!')
     else:
         print('Você está APROVADO!')
-
-
-
+        
 while True:
     calcular_media()
 
